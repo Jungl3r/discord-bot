@@ -1,0 +1,15 @@
+{
+    "name": "Jungl3r Cup 🏆",
+    "version": "1.0.0",
+    "descripiton": "",
+    "main": "index.js",
+    "author": "Jungl3r",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^12.3.1"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+
+}
